@@ -1,8 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
 
-🌟 **About Me**  
-I'm Buyakaa 👩🏻‍💻. I'm a passionate developer who loves building cool projects! I enjoy working with C#, Java, Typescript and Spring Boot and exploring new technologies. Let's create something amazing together! 🚀
-
+<h3>🌟 **About Me**</h3>
+<p>I'm Buyakaa 👩🏻‍💻. I'm a passionate developer who loves building cool projects! I enjoy working with C#, Java, Typescript and Spring Boot and exploring new technologies. Let's create something amazing together! 🚀</p>
+</br>
 <table>
   <tr>
     <td>
