@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Buyakaa</h1>
+# 👋 Welcome to My GitHub Profile!
+
+🌟 **About Me**  
+I'm Buyakaa 👩🏻‍💻. I'm a passionate developer who loves building cool projects! I enjoy working with C#, Java, Typescript and Spring Boot and exploring new technologies. Let's create something amazing together! 🚀
+
 <table>
   <tr>
     <td>
