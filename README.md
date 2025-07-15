@@ -15,7 +15,7 @@ I'm Buyakaa 👩🏻‍💻. I'm a passionate developer who loves building cool 
       </ul>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buyakaa13&layout=compact&theme=vue-dark&hide_border=true&card_width=600&card_height=250" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buyakaa13&layout=compact&theme=vue-dark&hide_border=true&card_width=550&card_height=250" alt="Top Languages" />
     </td>
   </tr>
 </table>
