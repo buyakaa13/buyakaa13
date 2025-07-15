@@ -15,7 +15,7 @@ I'm Buyakaa 👩🏻‍💻. I'm a passionate developer who loves building cool 
       </ul>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buyakaa13&layout=compact&theme=vue-dark&hide_border=true&card_width=600" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buyakaa13&layout=compact&theme=vue-dark&hide_border=true&card_width=600&card_height=250" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -23,8 +23,8 @@ I'm Buyakaa 👩🏻‍💻. I'm a passionate developer who loves building cool 
 ---
 
 ## 📊 More Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buyakaa13&show_icons=true&theme=vue-dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=buyakaa13&theme=vue-dark&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=500&card_height=200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buyakaa13&show_icons=true&theme=vue-dark&hide_border=true&card_width=500&card_height=200)
+[![GitHub Streak](https://github-readme-streak-stats-peach-ten.vercel.app?user=buyakaa13&theme=vue-dark&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
 
