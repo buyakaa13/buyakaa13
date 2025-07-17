@@ -29,7 +29,7 @@
 ---
 
 ## 🌈 Fun Fact
-I love drinking ☕ coffee while coding and exploring new tech trends! What's your favorite coding fuel? 😄
+I love drinking ☕ coffee while coding and exploring new tech trends! What's your favorite coding fuel? 😄 
 
 ---
 *Last updated: July 2025*
